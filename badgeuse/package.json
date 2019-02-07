@@ -10,6 +10,7 @@
     "gulp-sass": "^3.1.0"
   },
   "dependencies": {
-    "@ionic/pro": "2.0.4"
+    "@ionic/pro": "2.0.4",
+    "ionic": "^4.10.2"
   }
 }
